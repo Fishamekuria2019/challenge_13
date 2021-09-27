@@ -1,2 +1,3 @@
 # challenge_13
-Prepare the data for use on a neural network model,  Compile and evaluate a binary classification model using a neural network, Optimize the neural network model
+Prepare the data for use on a neural network model,  Compile and evaluate a binary classification model using a neural network, Optimize the neural network model.
+A neural network model which was compiled and evaluated using a neural network(a binary classification) has the accuracy of 72.76% when it optimized the neural network model using different layers(3layers) with "relu" as activation and sigmoid. it has the accuracy improvement to 73.13%. However, i tried many activation like linear, softmax, tanh and others while accuracy dropped to about 53%. At this point 73.13% accuracy better optimized for this model. 
